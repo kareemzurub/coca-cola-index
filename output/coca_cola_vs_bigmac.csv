@@ -1,0 +1,47 @@
+"country","iso3","coke_raw_pct","bigmac_raw_pct","coke_adjusted_pct","bigmac_adjusted_pct"
+"Egypt","EGY",-87.1,-53.9,-56.7,-41.1
+"Pakistan","PAK",-86.3,-37.5,-52.3,-19
+"India","IND",-85.6,-60.5,-51.3,-49.5
+"Indonesia","IDN",-82.3,-61.7,-43.6,-51.9
+"China","CHN",-81.5,-37.1,-52.1,-23.8
+"Jordan","JOR",-81.5,-43.3,-41.7,-28.1
+"Vietnam","VNM",-81.2,-53.5,-40.1,-41.2
+"Kuwait","KWT",-80.1,-27.3,-62.7,-16.8
+"Thailand","THA",-74.9,-35.4,-25.9,-18.9
+"Philippines","PHL",-73.1,-56,-12.3,-44.1
+"Saudi Arabia","SAU",-71.6,-18.7,-48.5,-7.4
+"Malaysia","MYS",-71.2,-42.6,-24.1,-31
+"Ukraine","UKR",-70.5,-46.4,-8,-32.5
+"Oman","OMN",-69,-36.1,-28.7,-24.5
+"Azerbaijan","AZE",-67.2,-31.4,-1.5,-13.5
+"Qatar","QAT",-67.2,-20.5,-61.8,-20
+"Peru","PER",-66.4,-19.7,-4.5,0.5
+"Bahrain","BHR",-65.3,-23.2,-33.3,-11.2
+"Taiwan","TWN",-63.5,-61,NA,-61.9
+"Moldova","MDA",-62,-26.7,10.8,-7.8
+"United Arab Emirates","ARE",-60.1,-16.8,-41.3,-9.8
+"Japan","JPN",-57.9,-50.4,-25.4,-47.2
+"South Africa","ZAF",-57.9,-44,28.8,-29.9
+"Brazil","BRA",-53.1,-24.4,30.2,-6
+"Hong Kong","HKG",-52,-47.7,-34.6,-50.1
+"Chile","CHL",-50.9,-13.1,17.2,6.1
+"Colombia","COL",-47.6,28.7,53,63.6
+"Mexico","MEX",-45.4,0.8,41.6,25.4
+"Turkey","TUR",-44.6,11.1,30.7,38.7
+"South Korea","KOR",-39.9,-38.3,6.3,-32.3
+"Hungary","HUN",-34.3,-14.8,36.1,-0.2
+"Singapore","SGP",-33.2,-7.2,-37.6,-11.4
+"Czech Republic","CZE",-32.1,-12.6,20.5,-0.1
+"Romania","ROU",-27.3,-35.6,59.6,-24.6
+"Canada","CAN",-23.6,-6.5,5.7,1.6
+"New Zealand","NZL",-21.8,-17.4,16.1,-10.2
+"Argentina","ARG",-21.4,-5,99.6,19
+"Poland","POL",-21.4,0,56.3,19.3
+"Uruguay","URY",-16.2,43.7,75.6,77.4
+"Costa Rica","CRI",-12.5,12.5,101.2,38.1
+"United Kingdom","GBR",-4.4,19,29.4,33.1
+"Sweden","SWE",0.7,15.1,28.7,26.6
+"Australia","AUS",7.4,-4.3,34.4,-0.5
+"Norway","NOR",53.5,29.5,48,33.6
+"Denmark","DNK",55,13.1,73.2,19.7
+"Switzerland","CHE",96.7,45.4,63.9,48.5
